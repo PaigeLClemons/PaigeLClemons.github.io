@@ -1,0 +1,47 @@
+body{
+    background-color: #0d1117;
+}
+
+.name{
+    text-align: center; 
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+
+.education{
+    text-align: center; 
+    color: white;
+    padding-bottom: 1%;
+}
+
+.local{
+    text-align: center; 
+    color: white;
+    padding-bottom: 1%;
+}
+
+.LinkedIn{
+    text-align: right; 
+    color: white;
+}
+
+.GitHub{
+    color: white;
+}
+
+.bio{
+    text-align: center; 
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.eleos{
+    color: white;
+}
+
+.resume{
+    text-align: center;
+    color: white;
+}
